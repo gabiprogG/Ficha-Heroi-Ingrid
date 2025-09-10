@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+
+
+    <color name="heroi">#03A9F4</color>
+    <color name="anti_heroi">#D7D6D6</color>
+    <color name="vilao">#F44336</color>
+
+</resources>
